@@ -1,0 +1,4 @@
+D:\VS\vs_Community.exe --noweb --add Microsoft.VisualStudio.Workload.ManagedDesktop --add Microsoft.VisualStudio.Workload.NetWeb --includeOptional
+
+
+C:\Users\Ant\AppData\Local\Microsoft\VSCommon
